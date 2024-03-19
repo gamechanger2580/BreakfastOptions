@@ -18,8 +18,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # BreakfastOptions
 First app (Only UI) created using Flutter. 
-
-
-
-# BreakfastOptions
-First app (Only UI) created using Flutter. 
