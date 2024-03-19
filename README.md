@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # first
 
 A new Flutter project.
@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # BreakfastOptions
 First app (Only UI) created using Flutter. 
->>>>>>> 5a6f8cfd414c282989a1a0bb33a63549f4b1821f
+
 
 
 # BreakfastOptions
